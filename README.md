@@ -35,9 +35,9 @@ G : 아이템 잡기
 ### 애니메이션 설정
 - idle -> Run 상태 구현
 
-<img src="https://github.com/nunnunnana/GE_project/assets/99165741/e6f4967f-1266-49f1-8525-616d13b9e7e6.png" width="600" height="300"/>
+<img src="https://github.com/nunnunnana/GE_project/assets/99165741/e6f4967f-1266-49f1-8525-616d13b9e7e6.png" width="600" height="200"/>
 
-<img src="https://github.com/nunnunnana/GE_project/assets/99165741/662ea155-9998-4c5e-a97f-e39a15b584f2.png" width="600" height="300"/>
+<img src="https://github.com/nunnunnana/GE_project/assets/99165741/662ea155-9998-4c5e-a97f-e39a15b584f2.png" width="600" height="200"/>
 
 ![애니메이션](https://github.com/nunnunnana/GE_project/assets/99165741/c0489574-47b5-4ff2-b237-665e0171cff2)
 
@@ -46,14 +46,36 @@ G : 아이템 잡기
 - 지형은 Terrian 생성 후 텍스처 붙이는 방식 사용
 - 텍스처는 무료 에셋 사용
 
-<img src="https://github.com/nunnunnana/GE_project/assets/99165741/7d7f42fd-b69e-4d82-a4b6-fee1da5af82a.png" width="600" height="300"/>
+<img src="https://github.com/nunnunnana/GE_project/assets/99165741/7d7f42fd-b69e-4d82-a4b6-fee1da5af82a.png" width="300" height="300"/>
 
 <img src="https://github.com/nunnunnana/GE_project/assets/99165741/1cb5665b-7e4f-49b6-bf30-3d46ee0d63d3.png" width="600" height="300"/>
 
 ### 사운드
+- 사운드는 Audio Source 컴포넌트 사용
+- 에셋 스토어에서 무료 발소리 에셋 사용
 
 ### 시작화면
+- 마우스 클릭으로 시작 기능 추가
 
-### NPC
+<img src="https://github.com/nunnunnana/GE_project/assets/99165741/55066a99-e90c-4c31-9a6c-44298bee81a0.png" width="600" height="200"/>
+
+<img src="https://github.com/nunnunnana/GE_project/assets/99165741/d1e61dfe-7ae1-4882-8426-dbcbf5c41301.png" width="600" height="300"/>
+
+### NPC 상호작용
+- NPC에 다가가면 상호작용 활성화, 멀어지면 비활성화
+- NPC 소리는 음향 편집 프로그램에서 빨리감기로 사용
+
+<img src="https://github.com/nunnunnana/GE_project/assets/99165741/f62b94b3-2a3a-4dc2-b01f-22c6f587434d.png" width="500" height="600"/>
+
+<img src="https://github.com/nunnunnana/GE_project/assets/99165741/09c8ab11-45ca-408f-a159-75d80fb70511.png" width="600" height="300"/>
+
+![NPC 상호작용](https://github.com/nunnunnana/GE_project/assets/99165741/0172707f-9691-46ef-8502-7336f6cbbf9e)
+
 
 ### 아이템
+- 게임 오브젝트로 아이템 잡는 위치 설정
+- G 키로 아이템 그랩
+
+<img src="https://github.com/nunnunnana/GE_project/assets/99165741/19a6b22b-2384-4eb9-8594-b79fe515ed4e.png" width="500" height="600"/>
+
+![아이템 그랩](https://github.com/nunnunnana/GE_project/assets/99165741/394341de-8bf1-41f1-a806-5bde4a884f04)
