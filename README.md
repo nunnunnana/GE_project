@@ -26,7 +26,7 @@ G : 아이템 잡기
 ### 캐릭터 이동 및 카메라 시점
 - 캐릭터는 에셋 스토어에서 무료 에셋 사용
 
-https://github.com/nunnunnana/GE_project/blob/7dc21d8bb371cf321c98ae0929b3ef71dc195ad7/GE_project/Assets/Scripts/PC.cs#L53C11-L53C11
+https://github.com/nunnunnana/GE_project/blob/7dc21d8bb371cf321c98ae0929b3ef71dc195ad7/GE_project/Assets/Scripts/PC.cs#L53
 
 ![캐릭터 이동](https://github.com/nunnunnana/GE_project/assets/99165741/4fcfa5ec-55d0-4b2a-8a6e-5c320de0a627)
 
@@ -58,7 +58,7 @@ https://github.com/nunnunnana/GE_project/blob/2fc825890dca8b81dccb80b4b0c52abb6a
 ### 시작화면
 - 마우스 클릭으로 시작 기능 추가
 
-https://github.com/nunnunnana/GE_project/blob/7dc21d8bb371cf321c98ae0929b3ef71dc195ad7/GE_project/Assets/Scripts/Startgame.cs#L14C19-L14C19
+https://github.com/nunnunnana/GE_project/blob/7f9cdc62c2508afb6664f8fc7e4597dc79216718/GE_project/Assets/Scripts/Startgame.cs#L14
 
 <img src="https://github.com/nunnunnana/GE_project/assets/99165741/d1e61dfe-7ae1-4882-8426-dbcbf5c41301.png" width="600" height="300"/>
 
@@ -69,7 +69,8 @@ https://github.com/nunnunnana/GE_project/blob/7dc21d8bb371cf321c98ae0929b3ef71dc
 https://github.com/nunnunnana/GE_project/blob/2fc825890dca8b81dccb80b4b0c52abb6adad877/GE_project/Assets/Scripts/GameManager.cs#L19
 
 - 영역 안으로 들어왔을 때
-https://github.com/nunnunnana/GE_project/blob/2fc825890dca8b81dccb80b4b0c52abb6adad877/GE_project/Assets/Scripts/PC.cs#L36C12-L36C12
+
+https://github.com/nunnunnana/GE_project/blob/7f9cdc62c2508afb6664f8fc7e4597dc79216718/GE_project/Assets/Scripts/PC.cs#L36
 
 ![NPC 상호작용](https://github.com/nunnunnana/GE_project/assets/99165741/0172707f-9691-46ef-8502-7336f6cbbf9e)
 
@@ -78,6 +79,6 @@ https://github.com/nunnunnana/GE_project/blob/2fc825890dca8b81dccb80b4b0c52abb6a
 - 게임 오브젝트로 아이템 잡는 위치 설정
 - G 키로 아이템 그랩
 
-<img src="https://github.com/nunnunnana/GE_project/assets/99165741/19a6b22b-2384-4eb9-8594-b79fe515ed4e.png" width="500" height="600"/>
+https://github.com/nunnunnana/GE_project/blob/7f9cdc62c2508afb6664f8fc7e4597dc79216718/GE_project/Assets/Scripts/EquipAction.cs#L5
 
 ![아이템 그랩](https://github.com/nunnunnana/GE_project/assets/99165741/394341de-8bf1-41f1-a806-5bde4a884f04)
