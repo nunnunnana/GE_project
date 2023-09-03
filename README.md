@@ -25,21 +25,18 @@ G : 아이템 잡기
 
 ### 캐릭터 이동 및 카메라 시점
 - 캐릭터는 에셋 스토어에서 무료 에셋 사용
-- 
+
 https://github.com/nunnunnana/GE_project/blob/646f3ab4ec2509180f29eead339328efe71d57b1/GE_project/Assets/Scripts/PC.cs#L27
-
-<img src="https://github.com/nunnunnana/GE_project/assets/99165741/47f9330b-2a99-4c92-ba95-6314a9a5ddc4.png" width="600" height="300"/>
-
-<img src="https://github.com/nunnunnana/GE_project/assets/99165741/2dd791e6-60fe-4cef-86b5-354235925919.png" width="600" height="150"/>
 
 ![캐릭터 이동](https://github.com/nunnunnana/GE_project/assets/99165741/4fcfa5ec-55d0-4b2a-8a6e-5c320de0a627)
 
 ### 애니메이션 설정
 - idle -> Run 상태 구현
 
+https://github.com/nunnunnana/GE_project/blob/646f3ab4ec2509180f29eead339328efe71d57b1/GE_project/Assets/Scripts/PC.cs#L71
+
 <img src="https://github.com/nunnunnana/GE_project/assets/99165741/e6f4967f-1266-49f1-8525-616d13b9e7e6.png" width="600" height="200"/>
 
-<img src="https://github.com/nunnunnana/GE_project/assets/99165741/662ea155-9998-4c5e-a97f-e39a15b584f2.png" width="600" height="200"/>
 
 ![애니메이션](https://github.com/nunnunnana/GE_project/assets/99165741/c0489574-47b5-4ff2-b237-665e0171cff2)
 
@@ -56,10 +53,12 @@ https://github.com/nunnunnana/GE_project/blob/646f3ab4ec2509180f29eead339328efe7
 - 사운드는 Audio Source 컴포넌트 사용
 - 에셋 스토어에서 무료 발소리 에셋 사용
 
+https://github.com/nunnunnana/GE_project/blob/2fc825890dca8b81dccb80b4b0c52abb6adad877/GE_project/Assets/Scripts/PC.cs#L86
+
 ### 시작화면
 - 마우스 클릭으로 시작 기능 추가
 
-<img src="https://github.com/nunnunnana/GE_project/assets/99165741/55066a99-e90c-4c31-9a6c-44298bee81a0.png" width="600" height="200"/>
+https://github.com/nunnunnana/GE_project/blob/2fc825890dca8b81dccb80b4b0c52abb6adad877/GE_project/Assets/Scripts/Startgame.cs#L6C6-L6C6
 
 <img src="https://github.com/nunnunnana/GE_project/assets/99165741/d1e61dfe-7ae1-4882-8426-dbcbf5c41301.png" width="600" height="300"/>
 
@@ -67,9 +66,10 @@ https://github.com/nunnunnana/GE_project/blob/646f3ab4ec2509180f29eead339328efe7
 - NPC에 다가가면 상호작용 활성화, 멀어지면 비활성화
 - NPC 소리는 음향 편집 프로그램에서 빨리감기로 사용
 
-<img src="https://github.com/nunnunnana/GE_project/assets/99165741/f62b94b3-2a3a-4dc2-b01f-22c6f587434d.png" width="500" height="600"/>
+https://github.com/nunnunnana/GE_project/blob/2fc825890dca8b81dccb80b4b0c52abb6adad877/GE_project/Assets/Scripts/GameManager.cs#L19
 
-<img src="https://github.com/nunnunnana/GE_project/assets/99165741/09c8ab11-45ca-408f-a159-75d80fb70511.png" width="600" height="300"/>
+- 영역 안으로 들어왔을 때
+https://github.com/nunnunnana/GE_project/blob/2fc825890dca8b81dccb80b4b0c52abb6adad877/GE_project/Assets/Scripts/PC.cs#L36C12-L36C12
 
 ![NPC 상호작용](https://github.com/nunnunnana/GE_project/assets/99165741/0172707f-9691-46ef-8502-7336f6cbbf9e)
 
