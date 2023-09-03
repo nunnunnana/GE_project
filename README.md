@@ -25,6 +25,8 @@ G : 아이템 잡기
 
 ### 캐릭터 이동 및 카메라 시점
 - 캐릭터는 에셋 스토어에서 무료 에셋 사용
+- 
+https://github.com/nunnunnana/GE_project/blob/646f3ab4ec2509180f29eead339328efe71d57b1/GE_project/Assets/Scripts/PC.cs#L27
 
 <img src="https://github.com/nunnunnana/GE_project/assets/99165741/47f9330b-2a99-4c92-ba95-6314a9a5ddc4.png" width="600" height="300"/>
 
