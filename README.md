@@ -26,7 +26,7 @@ G : 아이템 잡기
 ### 캐릭터 이동 및 카메라 시점
 - 캐릭터는 에셋 스토어에서 무료 에셋 사용
 
-https://github.com/nunnunnana/GE_project/blob/646f3ab4ec2509180f29eead339328efe71d57b1/GE_project/Assets/Scripts/PC.cs#L27
+https://github.com/nunnunnana/GE_project/blob/7dc21d8bb371cf321c98ae0929b3ef71dc195ad7/GE_project/Assets/Scripts/PC.cs#L53C11-L53C11
 
 ![캐릭터 이동](https://github.com/nunnunnana/GE_project/assets/99165741/4fcfa5ec-55d0-4b2a-8a6e-5c320de0a627)
 
@@ -58,7 +58,7 @@ https://github.com/nunnunnana/GE_project/blob/2fc825890dca8b81dccb80b4b0c52abb6a
 ### 시작화면
 - 마우스 클릭으로 시작 기능 추가
 
-https://github.com/nunnunnana/GE_project/blob/2fc825890dca8b81dccb80b4b0c52abb6adad877/GE_project/Assets/Scripts/Startgame.cs#L6C6-L6C6
+https://github.com/nunnunnana/GE_project/blob/7dc21d8bb371cf321c98ae0929b3ef71dc195ad7/GE_project/Assets/Scripts/Startgame.cs#L14C19-L14C19
 
 <img src="https://github.com/nunnunnana/GE_project/assets/99165741/d1e61dfe-7ae1-4882-8426-dbcbf5c41301.png" width="600" height="300"/>
 
